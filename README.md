@@ -1,4 +1,7 @@
-### Hi there 👋
+Hey there, I'm oxince! 👋
+Passionate about Quality, Security, and Performance in software development.
+
+🔧 Technologies & Frameworks
 
 <!--
 **Cuniix/cuniix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
